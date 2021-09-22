@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2670748 */
+  src: url('iconfont.woff2?t=1626160220803') format('woff2'),
+       url('iconfont.woff?t=1626160220803') format('woff'),
+       url('iconfont.ttf?t=1626160220803') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-TPbzglg:before {
+  content: "\e610";
+}
+
+.icon-tqBjjrhGz:before {
+  content: "\e611";
+}
+
+.icon-gitee:before {
+  content: "\e6d6";
+}
+
+.icon-gitee1:before {
+  content: "\e601";
+}
+
+.icon-openGauss:before {
+  content: "\e8ab";
+}
+
+.icon-gitee2:before {
+  content: "\e602";
+}
+
+.icon-GaussDB-openGAUSS:before {
+  content: "\e701";
+}
+
+.icon-openGauss1:before {
+  content: "\e8cd";
+}
+
+.icon-logo_home_opengauss:before {
+  content: "\e606";
+}
+
