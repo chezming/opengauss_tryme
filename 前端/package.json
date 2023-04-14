@@ -15,7 +15,7 @@
     "element-ui": "^2.4.5",
     "monaco-editor": "^0.25.2",
     "node-sass": "^4.14.1",
-    "qs": "^6.5.1",
+    "qs": "^6.11.1",
     "save-dev": "0.0.1-security",
     "sql-formatter": "^4.0.2",
     "vue": "^2.6.11",
